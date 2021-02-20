@@ -2,4 +2,4 @@
 Pandas Python with all basics methods
 
 ## Pandas Assignments
-relate with python
+relate with python, exploring python library
